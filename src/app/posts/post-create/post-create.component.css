@@ -1,0 +1,13 @@
+textarea,
+mat-form-field {
+  width: 100%;
+}
+
+:host {
+  display: block;
+  margin-top: 1.5rem;
+}
+
+mat-spinner {
+  margin: auto;
+}
